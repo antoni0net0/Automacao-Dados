@@ -93,15 +93,3 @@ A diretoria recebe um e-mail com:
 ## 💾 Backups
 
 Cada planilha individual das lojas deve ser salva em uma pasta com o nome da loja, contendo a **data** no nome do arquivo para gerar um **histórico de backup.**
-
----
-
-## ✅ Dica para os ícones de verde/vermelho
-
-Use os caracteres especiais de ✔️ e ❌ neste site para facilitar:
-🔗 [https://fsymbols.com/keyboard/windows/alt-codes/list/](https://fsymbols.com/keyboard/windows/alt-codes/list/)
-
-Você pode formatar os ícones com HTML no corpo do e-mail, exemplo:
-
-```html
-<span style="color:green;">✔️</span> ou <span style="color:red;">❌</span>
